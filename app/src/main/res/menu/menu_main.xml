@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.viraj.designlibrary.MainActivity">
+    <item
+        android:id="@+id/current_view"
+        android:orderInCategory="100"
+        android:title="@string/menu_1"
+        app:showAsAction="never"
+        android:onClick="goToMainView"/>
+
+    <item
+        android:id="@+id/tab_view"
+        android:orderInCategory="100"
+        android:title="@string/menu_2"
+        app:showAsAction="never"
+        android:onClick="goToTab"/>
+
+    <item
+        android:id="@+id/colltool"
+        android:orderInCategory="100"
+        android:title="@string/menu_3"
+        app:showAsAction="never"
+        android:onClick="goToCollapsingToolbar" />
+
+
+
+</menu>

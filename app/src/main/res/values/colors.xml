@@ -1,0 +1,78 @@
+<resources>
+    <!-- App theme -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="primary_search_color">#2196F3</color>
+    <color name="accent">#FF5252</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="gray_icons">#9E9E9E</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="text">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="window_background">#FFFFFF</color>
+    <color name="list_item_footer">#D7D7D7</color>
+    <color name="navigationBarColor">#1976D2</color>
+    <color name="viewpager_bg">#000000</color>
+
+    <color name="dim_image">#73000000</color>
+
+    <!--Login Screen -->
+    <color name="version_no">#F44336</color>
+    <color name="app_name">#F44336</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_grey">#727272</color>
+    <color name="light_grey">#5e5e5e</color>
+    <color name="footer_greay_light">#F5F5F5</color>
+    <color name="divider_light">#E0E0E0</color>
+    <color name="backgroud_grey">#EEEEEE</color>
+    <color name="offer_price_color">#43A047</color>
+    <color name="deal_percent_off">#FF5252</color>
+    <color name="grey">#424242</color>
+
+
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_pager_bg">#ECEFF1</color>
+    <color name="gray_image_tint">#9E9E9E</color>
+    <color name="card_swipe_pager_bg">#000000</color>
+    <color name="deal_old_price">#F44336</color>
+    <color name="deal_detail_buy_now_btn">#FF6D00</color>
+    <color name="deal_detail_comments_btn">#43A047</color>
+    <color name="coupon_expiry_date">#F44336</color>
+
+    <color name="get_coupon_code_btn">#2196F3</color>
+    <color name="cancel_redeem_coupon_btn">#727272</color>
+    <color name="redeem_coupon_btn">#43A047</color>
+    <color name="white_icons">#FFFFFF</color>
+    <color name="store_item_rating_bar">#FFFFFF</color>
+
+    <color name="blueTextColor">#4bafe4</color>
+    <color name="dark_grey">#5e5e5e</color>
+    <color name="white">#ffffff</color>
+    <color name="html_link_color">#0000EE</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="new_card_bg">#bcbcbc</color>
+    <color name="view_color">#EEEEEE</color>
+    <color name="rate_now_btn">#43A047</color>
+    <color name="cancel_rate_nw_btn">#727272</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="fab_ripple_color">#D32F2F</color>
+    <color name="snackbar_bg">#323232</color>
+    <color name="dim_window_background">#73FFFFFF</color>
+
+    <!--Tour Screen Background-->
+    <color name="color1">#7BBEE9</color>
+    <color name="color2">#F9AA4B</color>
+    <color name="color3">#88c76e</color>
+    <color name="color4">#7FC0AC</color>
+</resources>
